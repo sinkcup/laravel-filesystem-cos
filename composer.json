@@ -3,6 +3,7 @@
     "description": "A Cos storage filesystem for Laravel.",
     "require": {
         "php": "^8.0",
+        "guzzlehttp/guzzle": "^6.3",
         "qcloud/cos-sdk-v5": "^2.1"
     },
     "autoload": {
